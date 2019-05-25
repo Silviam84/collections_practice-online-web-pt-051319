@@ -1,7 +1,7 @@
 def collection (3,4,7,9,8,1,2)
   sort_array_asc (1,2nd)
   
-  puts swap_elements 1-9
+  puts swap_elements(1-9) 
   
 end
   
